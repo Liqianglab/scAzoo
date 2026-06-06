@@ -1,0 +1,41 @@
+directory,file_count,size_mb,extensions
+_current_figure_files,31,758.92,ai:15; png:16
+_fig6_probe_20260220,0,0.0,
+_legacy_replaced_by_current,492,425.79,ai:4; csv:248; gz:5; pdf:48; png:35; py:18; r:10; svg:27; txt:30; xls:48; xlsx:15; zip:4
+figure1_code,4,0.03,py:2; r:2
+figure1_source_data,19,143.51,csv:17; txt:1; xlsx:1
+figure2_code,1,0.01,r:1
+figure2_source_data,18,12.35,csv:13; png:4; txt:1
+figure3_code,2,0.03,py:2
+figure3_panels,24,8.72,pdf:8; png:9; svg:7
+figure3_source_data,17,4.13,csv:16; txt:1
+figure4_code,8,2.43,png:1; py:2; r:3; svg:1; txt:1
+figure4_panel_raw,37,97.34,ai:2; csv:9; pdf:2; r:3; txt:10; xls:9; xlsx:1; zip:1
+figure4_source_data,62,29.71,csv:39; pdf:9; png:1; txt:4; xls:7; xlsx:1; zip:1
+figure5_code,6,1.84,png:1; py:2; r:1; svg:1; txt:1
+figure5_source_data,47,62.39,ai:1; csv:30; pdf:10; png:1; txt:1; xlsx:4
+figure6_code,4,0.03,py:3; txt:1
+figure6_source_data,76,24.93,csv:46; pdf:15; png:1; r:3; svg:1; tsv:1; txt:1; xls:8
+figure7_code,5,2.38,png:1; py:2; svg:1; txt:1
+figure7_source_data,53,32.47,csv:36; pdf:10; r:4; txt:1; xls:2
+figure8_code,37,9.55,png:16; py:3; svg:16; txt:2
+figure8_source_data,71,58.21,ai:1; csv:52; md:1; pdf:5; png:4; py:3; txt:4; xlsx:1
+figure9_code,1,0.01,py:1
+figure9_source_data,6,4.0,csv:4; png:1; txt:1
+supfig1_code,3,0.02,py:1; r:2
+supfig1_source_data,11,210.59,csv:9; txt:1; xlsx:1
+supfig2_code,1,0.0,r:1
+supfig2_source_data,2,24.11,csv:2
+supfig3_code,3,0.01,py:1; txt:2
+supfig3_panels,10,1.65,pdf:3; png:4; svg:3
+supfig3_source_data,9,0.04,csv:9
+supfig4_code,1,0.01,py:1
+supfig4_panels,9,1.19,pdf:3; png:3; svg:3
+supfig4_source_data,6,0.03,csv:6
+supfig5_code,1,0.01,py:1
+supfig5_panels,12,2.17,pdf:3; png:6; svg:3
+supfig5_source_data,6,0.09,csv:6
+supfig6_code,5,0.29,png:1; py:2; svg:1; txt:1
+supfig6_source_data,33,13.84,ai:1; csv:15; pdf:9; png:5; txt:2; xls:1
+supfig7_code,10,5.63,png:2; py:4; svg:2; txt:2
+supfig7_source_data,223,234.8,ai:1; csv:133; gz:4; pdf:45; png:4; r:2; txt:5; xls:26; xlsx:2; zip:1

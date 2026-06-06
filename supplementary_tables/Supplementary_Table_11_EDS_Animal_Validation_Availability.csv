@@ -1,0 +1,12 @@
+panel,displayed_content,required_raw_source,current_workspace_status,notes
+a,"Animal experimental design: Vehicle, EDS, EDS + testosterone rescue time course","animal metadata, treatment dates, dose, route, sampling day, exclusion criteria",figure_image_available_only,"Protocol schematic is available in the composed figure, but raw animal metadata table was not located."
+b,CYP11A1 immunofluorescence and CYP11A1+DAPI interstitial cell density,"raw microscopy files, ROI annotations, cell-count table, animal/sample IDs",raw_quantification_not_located,Do not infer values from the rendered bar plot; add measured count data.
+c,Serum testosterone concentration,"hormone assay output table with animal IDs, group, value, unit, batch",raw_quantification_not_located,Needed to support androgen rescue claim.
+d,WT1/DHH and CYP11A1/GAS1 immunofluorescence representative images,raw microscopy files and channel metadata,raw_images_not_located,Representative images are embedded in the composed figure only.
+e,GAS1 relative fluorescence intensity,per-image or per-ROI GAS1 intensity measurements with animal/sample IDs,raw_quantification_not_located,Needed for HH receptor mismatch claim.
+f,DHH relative fluorescence intensity,per-image or per-ROI DHH intensity measurements with animal/sample IDs,raw_quantification_not_located,Needed for Sertoli-side DHH retained/increased claim.
+g,CLDN11 and AMH immunofluorescence representative images,raw microscopy files and channel metadata,raw_images_not_located,Representative images are embedded in the composed figure only.
+h,CLDN11 continuity index,junction-continuity measurements with image/ROI/animal IDs,raw_quantification_not_located,Needed for BTB damage/rescue claim.
+i,AMH relative fluorescence intensity,per-image or per-ROI AMH intensity measurements with animal/sample IDs,raw_quantification_not_located,Needed for Sertoli dysfunction phenotype.
+j,SYCP3 immunofluorescence representative images and relative intensity,raw microscopy files and SYCP3 intensity measurements with animal/sample IDs,raw_quantification_not_located,Figure label should be checked for SYCP3 spelling before submission.
+k,Mechanistic summary model,derived from panels b-j and prior figures,schematic_only,"No numeric source data expected, but model claims should cite supporting panels."

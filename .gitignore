@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RDS
+*.rds
+*.h5ad
+*.fastq
+*.fq
+*.bam
+*.sam
+*.cram
+*.ai
+*.zip

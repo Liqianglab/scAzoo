@@ -1,0 +1,9 @@
+,Sertoli maturity,BTB integrity,Sertoli stress,Sertoli SASP,Leydig maturity,Leydig immaturity,Germ maturity index,Germ latest stage
+Sertoli maturity,1.00,0.84**,-0.04,0.30,0.77**,-0.62*,0.55,0.65*
+BTB integrity,0.84**,1.00,-0.15,0.19,0.77**,-0.78**,0.52,0.66*
+Sertoli stress,-0.04,-0.15,1.00,0.84**,-0.03,0.49,-0.35,-0.27
+Sertoli SASP,0.30,0.19,0.84**,1.00,0.20,0.26,-0.11,0.04
+Leydig maturity,0.77**,0.77**,-0.03,0.20,1.00,-0.61*,0.36,0.56
+Leydig immaturity,-0.62*,-0.78**,0.49,0.26,-0.61*,1.00,-0.65*,-0.67*
+Germ maturity index,0.55,0.52,-0.35,-0.11,0.36,-0.65*,1.00,0.82**
+Germ latest stage,0.65*,0.66*,-0.27,0.04,0.56,-0.67*,0.82**,1.00

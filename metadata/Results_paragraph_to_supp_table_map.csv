@@ -1,0 +1,20 @@
+paragraph_idx,supp_tables,excerpt
+26,1,"We generated a single-cell transcriptomic atlas of adult human testes spanning normal spermatogenesis and five clinically defined forms of azoospermia, covering obstructive azoospe"
+28,1,"Cell-type composition differed markedly across etiologies and aligned with clinical phenotypes: OA retained a substantial germline compartment, whereas genetic and severe NOA categ"
+32,2,We next formalized the timing of divergence using group-resolved pseudotime inference (Fig. 2d). Quantification of inter-group separation along the developmental axis with a local 
+34,2,"To assess whether the pathway changes observed at the late-meiotic split generalize across etiologies, we summarized Hallmark enrichment in late primary spermatocytes and round spe"
+38,3,We next quantified somatic remodeling at the donor level to distinguish global shifts in niche composition from lineage-specific imbalance. The radar summary in Fig. 3b provides tw
+40,3,"Given the prominence of immune-related signals in the enrichment landscape, we next quantified cytokine signaling activity using a curated cytokine/immune-signaling score. This sco"
+44,4,"Mapping diagnosis labels onto the Sertoli manifold revealed pronounced etiology-dependent skewing of state composition. Compared with controls, severe non-obstructive contexts show"
+45,4,This Sertoli-state remodeling was accompanied by impaired barrier-associated features at the population level. A BTB integrity score was reduced in non-obstructive etiologies compa
+49,5,"When mapped back to diagnosis, LC-state composition showed clear etiology-dependent skewing rather than a uniform response. Across non-obstructive contexts, we observed redistribut"
+50,5,"To connect the LC transcriptional remodeling to clinically measurable endocrine phenotypes, we further examined a larger clinical cohort spanning normal controls, OA, and iNOA (Fig"
+52,6,"To test whether the endocrine defects observed along the Leydig-cell trajectory are accompanied by altered niche communication, we inferred ligand–receptor interactions between Ley"
+53,6,"In parallel, Leydig-cell transcriptional remodeling in azoospermia extended beyond classical steroidogenic genes and included extracellular matrix and adhesion-associated programs."
+57,7,We then explicitly separated the “producer” and “consumer” sides of the proposed lactate axis. Sertoli cells showed increased lactate/glycolysis activity across disease groups (Fig
+59,9,"We next asked whether the multiple somatic programs uncovered across tubular and interstitial niches cohere into a coordinated, donor-level remodeling pattern rather than varying i"
+60,9,"To summarize this coordinated remodeling into an interpretable donor-level continuum, we performed principal-component embedding of donors using the niche-score matrix. The resulti"
+64,8,Differential expression analysis across germline stages further localized OA-associated transcriptional changes to late spermatogenic compartments. While earlier germ cell states c
+65,8,"At the gene level, OA testes showed higher expression of multiple motility/axonemal and ion-channel components in postmeiotic contexts, including CCDC65, DNAH8, PIH1D3 and CATSPER3"
+66,8,"Supplementary analyses reinforced that OA is accompanied by a multi-lineage somatic response with both shared and cell-type-specific components. Across endothelial, Leydig, immune "
+69,10,"External validation in independent cohorts corroborates late-meiotic divergence and coordinated somatic niche remodeling.To evaluate robustness beyond the discovery cohort, we appl"

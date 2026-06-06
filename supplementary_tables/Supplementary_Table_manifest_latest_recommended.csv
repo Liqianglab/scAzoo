@@ -1,0 +1,12 @@
+﻿supp_table,title,file,status,recommended_results_use
+1,Discovery atlas composition,Supplementary_Table_1_Discovery_Atlas_Composition.xlsx,carried_forward_from_original_results_tables,"Figure 1 atlas size, sample/group composition, cell-type composition."
+2,Germline divergence statistics,Supplementary_Table_2_Germline_Divergence_Statistics.xlsx,carried_forward_from_original_results_tables,"Figure 2 stage composition, entropy, paired divergence, OXPHOS/apoptosis GSEA."
+3,Somatic remodeling statistics,Supplementary_Table_3_Somatic_Remodeling_Statistics.xlsx,carried_forward_from_original_results_tables,"Figure 3 somatic priority, pathway and niche-score statistics."
+4,Sertoli trajectory and BTB metrics,Supplementary_Table_4_Sertoli_Trajectory_BTB_Metrics.xlsx,carried_forward_from_original_results_tables,"Figure 4 Sertoli state ratios, marker/regulon activity, BTB integrity."
+5,Leydig trajectory and endocrine metrics,Supplementary_Table_5_Leydig_Trajectory_Endocrine_Metrics.xlsx,carried_forward_from_original_results_tables,"Figure 5 Leydig states, steroidogenic GO terms, hormone cohort."
+6,Hedgehog communication and GO metrics,Supplementary_Table_6_Hedgehog_Communication_GO_Metrics.xlsx,carried_forward_from_original_results_tables,"Figure 6 DHH/GAS1 communication, LC_a DEGs, GO enrichment."
+7,Metabolic uncoupling metrics,Supplementary_Table_7_Metabolic_Uncoupling_Metrics.xlsx,carried_forward_from_original_results_tables,"Figure 7 Sertoli lactate export, germ-cell OXPHOS, transporter summaries."
+8,OA-vs-control remodeling metrics,Supplementary_Table_8_OA_vs_Control_Remodeling_Metrics.xlsx,carried_forward_from_original_results_tables,Supplementary Figure 7 and OA-specific results.
+9,Donor niche-collapse axis metrics,Supplementary_Table_9_Donor_Niche_Collapse_Axis_Metrics.xlsx,carried_forward_from_original_results_tables,Figure 3 donor PC1/niche-collapse correlations and score matrix.
+10,External validation metrics,Supplementary_Table_10_External_Validation_Metrics.xlsx,carried_forward_from_original_results_tables,Figure 8 GSE235321/GSE149512 validation and metabolic uncoupling.
+11,EDS animal validation source data and availability,Supplementary_Tables_11_12_13.xlsx; Supplementary_Table_11_EDS_Animal_Validation_Source_Data.xlsx; Fig9_animal_level_source_data_20260606.csv,animal_validation_prism_values_added_20260606_remaining_metadata_gaps_noted,"Figure 9 animal validation: replicate-level CYP11A1, serum testosterone, DHH, GAS1, AMH, CLDN11 and SYCP3 source values extracted from Prism pzfx files."

@@ -1,0 +1,8 @@
+Pillow
+fig6_cd_prepare_source_data
+matplotlib
+numpy
+pandas
+scipy
+tarfile
+typing

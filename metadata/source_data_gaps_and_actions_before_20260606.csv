@@ -1,0 +1,6 @@
+figure_or_group,issue,recommended_action
+Figure 9,animal_validation_raw_data_missing,"Only the composed Figure 9 PNG was found. Add raw hormone assay, microscopy, ROI/cell-count, fluorescence-intensity, CLDN11 continuity, and animal metadata tables."
+Figure 9,figure9_pdf_not_found_in_workspace,"The current source package only contains Figure 9_20260602.png. If a high-resolution PDF/AI exists, place it in _current_figure_files and figure9_source_data/raw_support."
+Figure 8,renumbered_legacy_filenames,Current Figure 8 uses old Supplementary Figure 9 source data; filenames/scripts still carry SupFig9 naming and should be renamed only if strict final submission naming is required.
+Supplementary Figure 7,combined_legacy_support,Current Supplementary Figure 7 appears to combine legacy SupFig7 and legacy Figure8 materials; panel-by-panel source matching should be reviewed against final AI.
+"Figures 1,2,4,5,6,7 and Supplementary Figures 1,2,6",legacy_source_data_needs_final_panel_audit,"Source data/code copied from old package. They may be correct, but final 20260602 AI files should be checked panel-by-panel before submission."

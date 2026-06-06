@@ -1,0 +1,1 @@
+Source data files for revised Figure 3 panels generated from uploaded real data. Panel D deliberately uses core ST/LC maturity, BTB and stress/SASP modules only; HH and metabolic candidate modules are saved as optional extended source data for later figures/supplement.

@@ -1,0 +1,12 @@
+figure_panel,source_data_file,code_file,status,comment
+Fig9a,Fig9_image_file_registry.csv,figure9_code/build_figure9_source_data.py,figure_image_available_only,"Protocol schematic is available in the composed figure, but raw animal metadata table was not located."
+Fig9b,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Do not infer values from the rendered bar plot; add measured count data.
+Fig9c,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Needed to support androgen rescue claim.
+Fig9d,Fig9_image_file_registry.csv,figure9_code/build_figure9_source_data.py,raw_images_not_located,Representative images are embedded in the composed figure only.
+Fig9e,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Needed for HH receptor mismatch claim.
+Fig9f,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Needed for Sertoli-side DHH retained/increased claim.
+Fig9g,Fig9_image_file_registry.csv,figure9_code/build_figure9_source_data.py,raw_images_not_located,Representative images are embedded in the composed figure only.
+Fig9h,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Needed for BTB damage/rescue claim.
+Fig9i,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Needed for Sertoli dysfunction phenotype.
+Fig9j,Fig9_raw_quantification_template.csv,figure9_code/build_figure9_source_data.py,raw_quantification_not_located,Figure label should be checked for SYCP3 spelling before submission.
+Fig9k,Fig9_image_file_registry.csv,figure9_code/build_figure9_source_data.py,schematic_only,"No numeric source data expected, but model claims should cite supporting panels."

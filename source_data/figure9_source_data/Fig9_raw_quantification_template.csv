@@ -1,0 +1,8 @@
+panel,assay,group,animal_id,sample_id,image_or_assay_id,roi_id,value,unit,biological_replicate,technical_replicate,source_file,notes
+b,CYP11A1+DAPI interstitial cells,Vehicle|EDS|EDS+T,,,,,,cells/mm2,,,,
+c,Serum testosterone,Vehicle|EDS|EDS+T,,,,,,ng/mL,,,,
+e,GAS1 relative fluorescence intensity,Vehicle|EDS|EDS+T,,,,,,relative_intensity,,,,
+f,DHH relative fluorescence intensity,Vehicle|EDS|EDS+T,,,,,,relative_intensity,,,,
+h,CLDN11 continuity index,Vehicle|EDS|EDS+T,,,,,,percent_or_index,,,,
+i,AMH relative fluorescence intensity,Vehicle|EDS|EDS+T,,,,,,relative_intensity,,,,
+j,SYCP3 relative fluorescence intensity,Vehicle|EDS|EDS+T,,,,,,relative_intensity,,,,

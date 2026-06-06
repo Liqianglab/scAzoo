@@ -1,0 +1,7 @@
+panel,description,source_file
+a,"Contextual somatic pathway remodeling (immune, myoid, endothelial).",SupFig3A_contextual_somatic_pathways_long.csv
+b,"Core donor-level LC-ST-germ correlation matrix, excluding lactate, DHH and Hh-response modules.",SupFig3B_core_LC_ST_germ_correlation_matrix.csv
+b,Text labels for core donor-level correlation matrix.,SupFig3B_core_LC_ST_germ_correlation_text_matrix.csv
+c,Core donor-level LC-ST-germ z-score matrix used for group-level summary.,SupFig3C_core_LC_ST_germ_donor_z_matrix.csv
+c,Long table for group-level core LC-ST-germ summary.,SupFig3C_core_LC_ST_germ_summary_long.csv
+c,Group-level matrix for core LC-ST-germ summary.,SupFig3C_core_LC_ST_germ_group_summary_matrix.csv

@@ -1,0 +1,6 @@
+﻿figure_or_group,issue,recommended_action
+Figure 9,animal_validation_raw_data_partially_resolved_20260606,"Replicate-level Prism values, Prism source files, and raw image registry were added under figure9_source_data/animal_validation_20260606. Remaining gaps: original animal IDs, treatment metadata, ROI IDs, and round-spermatids-per-tubule quantification if used."
+Figure 9,figure9_ai_added_20260606,"Figure 9_20260602.ai has been added to _current_figure_files, Figure_9/current_figure_file, and figure9_source_data/raw_support."
+Figure 8,renumbered_legacy_filenames,Current Figure 8 uses old Supplementary Figure 9 source data; filenames/scripts still carry SupFig9 naming and should be renamed only if strict final submission naming is required.
+Supplementary Figure 7,combined_legacy_support,Current Supplementary Figure 7 appears to combine legacy SupFig7 and legacy Figure8 materials; panel-by-panel source matching should be reviewed against final AI.
+"Figures 1,2,4,5,6,7 and Supplementary Figures 1,2,6",legacy_source_data_needs_final_panel_audit,"Source data/code copied from old package. They may be correct, but final 20260602 AI files should be checked panel-by-panel before submission."

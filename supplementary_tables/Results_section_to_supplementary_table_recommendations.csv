@@ -1,0 +1,11 @@
+﻿results_section,figures,recommended_supp_tables,why
+Cross-etiology atlas,Figure 1; Supplementary Figure 1,Supplementary Table 1,"Cell totals, group/sample composition, and cell-type proportions support the atlas paragraph."
+Late-primary-spermatocyte divergence,Figure 2; Supplementary Figure 2,Supplementary Table 2,"Stage composition, entropy statistics, paired donor shifts, and OXPHOS/apoptosis GSEA values."
+Leydig-Sertoli niche prioritization,Figure 3; Supplementary Figure 3,Supplementary Tables 3 and 9,"Somatic priority metrics, pathway perturbation, donor score matrix, PC1 and correlation statistics."
+Sertoli remodeling and BTB impairment,Figure 4; Supplementary Figure 4,Supplementary Table 4,"Sertoli state proportions, marker summaries, regulon activity and BTB integrity scores."
+Leydig endocrine collapse,Figure 5; Supplementary Figure 5,Supplementary Table 5,"Leydig state proportions, steroidogenic GO terms, dotplot data and hormone cohort summaries."
+Sertoli-Leydig Hedgehog mismatch,Figure 6,Supplementary Table 6,"Hedgehog ligand-receptor summaries, interaction matrix, LC_a volcano and GO enrichment terms."
+Sertoli-germ metabolic uncoupling,Figure 7; Supplementary Figure 6,Supplementary Table 7,"scMetabolism, late-SPC OXPHOS, Sertoli lactate and transporter expression statistics."
+OA-specific remodeling,Supplementary Figure 7,Supplementary Table 8,"OA-vs-control germline and somatic composition, GO terms and marker summaries."
+External validation,Figure 8,Supplementary Table 10,GSE235321 entropy and GSE149512 cell/donor-level validation statistics.
+EDS animal validation,Figure 9,Supplementary Table 11,"Latest results section needs animal metadata, hormone assay and ROI/image quantification; current workspace has a template/status table only."

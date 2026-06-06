@@ -1,0 +1,5 @@
+﻿gap,status,action
+original_animal_metadata_absent,not_found,"Add treatment date, dose, route, harvest day and exclusion metadata if available."
+original_animal_ids_absent_in_prism,partially_mitigated,Current CSV uses deidentified replicate IDs generated from group and row order.
+roi_ids_absent_in_prism,not_found,Add ROI/image-level measurement table if available; current data are Prism replicate values.
+round_spermatids_per_tubule,not_found,Add independent quantification if this panel/claim is used.

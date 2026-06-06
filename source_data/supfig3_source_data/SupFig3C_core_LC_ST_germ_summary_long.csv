@@ -1,0 +1,129 @@
+score_display,Sample_ID,Group,zscore
+Sertoli maturity,OA_3,OA,0.8049496350368823
+Sertoli maturity,AZFc_Del_2,AZFc_Del,0.9974487424897872
+Sertoli maturity,OA_4,OA,1.2078902333519563
+Sertoli maturity,OA_2,OA,0.8679518296705252
+Sertoli maturity,Ctrl_1,Ctrl,0.459670452000111
+Sertoli maturity,KS_2,KS,0.8435038749883155
+Sertoli maturity,Ctrl_3,Ctrl,0.0322989913109724
+Sertoli maturity,AZFc_Del_1,AZFc_Del,0.08745369909356
+Sertoli maturity,AZFc_Del_4,AZFc_Del,-0.2065574938179796
+Sertoli maturity,AZFc_Del_3,AZFc_Del,0.6318128971229368
+Sertoli maturity,iNOA_B,iNOA_B,-0.4797306151374712
+Sertoli maturity,iNOA_S3,iNOA_S,-0.2751843853555991
+Sertoli maturity,Ctrl_2,Ctrl,-1.1509461620130113
+Sertoli maturity,iNOA_S1,iNOA_S,-0.0947955151568037
+Sertoli maturity,iNOA_S2,iNOA_S,-0.8161562215833449
+Sertoli maturity,KS_1,KS,-2.9096099620008253
+BTB integrity,OA_3,OA,0.7311108081578053
+BTB integrity,AZFc_Del_2,AZFc_Del,1.044070759706108
+BTB integrity,OA_4,OA,1.1770594892687842
+BTB integrity,OA_2,OA,0.8815367463347827
+BTB integrity,Ctrl_1,Ctrl,0.7171737445887035
+BTB integrity,KS_2,KS,0.1851796076625019
+BTB integrity,Ctrl_3,Ctrl,0.4177721699340985
+BTB integrity,AZFc_Del_1,AZFc_Del,0.7094054436240432
+BTB integrity,AZFc_Del_4,AZFc_Del,0.4449990155753744
+BTB integrity,AZFc_Del_3,AZFc_Del,-0.4319180556190943
+BTB integrity,iNOA_B,iNOA_B,-0.4169613847391148
+BTB integrity,iNOA_S3,iNOA_S,0.1638799933188366
+BTB integrity,Ctrl_2,Ctrl,-1.121174221043228
+BTB integrity,iNOA_S1,iNOA_S,-0.6930312342691315
+BTB integrity,iNOA_S2,iNOA_S,-2.743941318637771
+BTB integrity,KS_1,KS,-1.0651615638626897
+Sertoli stress,OA_3,OA,-1.2461851807790612
+Sertoli stress,AZFc_Del_2,AZFc_Del,0.4648649748633039
+Sertoli stress,OA_4,OA,0.2442118164425543
+Sertoli stress,OA_2,OA,-0.830270250859049
+Sertoli stress,Ctrl_1,Ctrl,-1.1469407845665682
+Sertoli stress,KS_2,KS,0.537002211503324
+Sertoli stress,Ctrl_3,Ctrl,-0.6035513103690656
+Sertoli stress,AZFc_Del_1,AZFc_Del,-0.0333113044521964
+Sertoli stress,AZFc_Del_4,AZFc_Del,-0.2176943386019968
+Sertoli stress,AZFc_Del_3,AZFc_Del,1.0402565262379753
+Sertoli stress,iNOA_B,iNOA_B,0.3160790396035968
+Sertoli stress,iNOA_S3,iNOA_S,1.2436758813153894
+Sertoli stress,Ctrl_2,Ctrl,-0.9974104148900372
+Sertoli stress,iNOA_S1,iNOA_S,-0.1878581987733339
+Sertoli stress,iNOA_S2,iNOA_S,-1.1220486584862543
+Sertoli stress,KS_1,KS,2.539179991811418
+Sertoli SASP,OA_3,OA,-0.7588205681356641
+Sertoli SASP,AZFc_Del_2,AZFc_Del,0.7767020898928891
+Sertoli SASP,OA_4,OA,0.5399449909358435
+Sertoli SASP,OA_2,OA,-0.0504860250829919
+Sertoli SASP,Ctrl_1,Ctrl,-1.1267121025340596
+Sertoli SASP,KS_2,KS,0.9512033362007858
+Sertoli SASP,Ctrl_3,Ctrl,-0.8394695727555095
+Sertoli SASP,AZFc_Del_1,AZFc_Del,0.2744288893491446
+Sertoli SASP,AZFc_Del_4,AZFc_Del,0.2966511572453098
+Sertoli SASP,AZFc_Del_3,AZFc_Del,1.284837355681482
+Sertoli SASP,iNOA_B,iNOA_B,-0.2400006963827465
+Sertoli SASP,iNOA_S3,iNOA_S,0.2840310859994292
+Sertoli SASP,Ctrl_2,Ctrl,-1.853692637642155
+Sertoli SASP,iNOA_S1,iNOA_S,-0.4341271854602618
+Sertoli SASP,iNOA_S2,iNOA_S,-1.2359690168134378
+Sertoli SASP,KS_1,KS,2.131478899501942
+Leydig maturity,OA_3,OA,1.673107899824702
+Leydig maturity,AZFc_Del_2,AZFc_Del,1.6873351959385066
+Leydig maturity,OA_4,OA,1.6194032494171269
+Leydig maturity,OA_2,OA,-0.6689472072499363
+Leydig maturity,Ctrl_1,Ctrl,0.412327297399231
+Leydig maturity,KS_2,KS,-0.0751083232819248
+Leydig maturity,Ctrl_3,Ctrl,1.5133855935431082
+Leydig maturity,AZFc_Del_1,AZFc_Del,-0.4944514558673428
+Leydig maturity,AZFc_Del_4,AZFc_Del,-0.4678510419072496
+Leydig maturity,AZFc_Del_3,AZFc_Del,-0.4363739935270515
+Leydig maturity,iNOA_B,iNOA_B,-0.8043318699385585
+Leydig maturity,iNOA_S3,iNOA_S,-0.28129055501195
+Leydig maturity,Ctrl_2,Ctrl,-1.0825074615197272
+Leydig maturity,iNOA_S1,iNOA_S,-0.7466308386749789
+Leydig maturity,iNOA_S2,iNOA_S,-0.9034966456797954
+Leydig maturity,KS_1,KS,-0.9445698434641576
+Leydig immaturity,OA_3,OA,-1.498040694805473
+Leydig immaturity,AZFc_Del_2,AZFc_Del,-1.2938153055977055
+Leydig immaturity,OA_4,OA,-1.2054887199672275
+Leydig immaturity,OA_2,OA,-0.8438271598856761
+Leydig immaturity,Ctrl_1,Ctrl,-0.6638319016008641
+Leydig immaturity,KS_2,KS,0.4715514115056028
+Leydig immaturity,Ctrl_3,Ctrl,-0.7301274172012023
+Leydig immaturity,AZFc_Del_1,AZFc_Del,-0.0090215654268073
+Leydig immaturity,AZFc_Del_4,AZFc_Del,0.1793207553694496
+Leydig immaturity,AZFc_Del_3,AZFc_Del,1.1887524308344803
+Leydig immaturity,iNOA_B,iNOA_B,-0.5169896161026992
+Leydig immaturity,iNOA_S3,iNOA_S,1.2481261511983814
+Leydig immaturity,Ctrl_2,Ctrl,-0.2672365801012044
+Leydig immaturity,iNOA_S1,iNOA_S,1.394994552326735
+Leydig immaturity,iNOA_S2,iNOA_S,0.9625493980747694
+Leydig immaturity,KS_1,KS,1.5830842613794414
+Germ maturity index,OA_3,OA,0.7537448940605361
+Germ maturity index,AZFc_Del_2,AZFc_Del,0.8661693210310094
+Germ maturity index,OA_4,OA,0.7134950334871102
+Germ maturity index,OA_2,OA,0.9258094069784106
+Germ maturity index,Ctrl_1,Ctrl,0.8999602938934465
+Germ maturity index,KS_2,KS,0.7791191944738437
+Germ maturity index,Ctrl_3,Ctrl,0.22040952228784988
+Germ maturity index,AZFc_Del_1,AZFc_Del,-0.3631392440958635
+Germ maturity index,AZFc_Del_4,AZFc_Del,0.3870447521508798
+Germ maturity index,AZFc_Del_3,AZFc_Del,0.4479205862760622
+Germ maturity index,iNOA_B,iNOA_B,-0.5090544252284127
+Germ maturity index,iNOA_S3,iNOA_S,-1.169544814372123
+Germ maturity index,Ctrl_2,Ctrl,1.1041732979702819
+Germ maturity index,iNOA_S1,iNOA_S,-1.6853692729710097
+Germ maturity index,iNOA_S2,iNOA_S,-1.6853692729710097
+Germ maturity index,KS_1,KS,-1.6853692729710097
+Germ latest stage,OA_3,OA,0.6024640760767093
+Germ latest stage,AZFc_Del_2,AZFc_Del,0.6024640760767093
+Germ latest stage,OA_4,OA,0.6024640760767093
+Germ latest stage,OA_2,OA,0.6024640760767093
+Germ latest stage,Ctrl_1,Ctrl,0.6024640760767093
+Germ latest stage,KS_2,KS,0.6024640760767093
+Germ latest stage,Ctrl_3,Ctrl,0.6024640760767093
+Germ latest stage,AZFc_Del_1,AZFc_Del,0.6024640760767093
+Germ latest stage,AZFc_Del_4,AZFc_Del,0.6024640760767093
+Germ latest stage,AZFc_Del_3,AZFc_Del,0.6024640760767093
+Germ latest stage,iNOA_B,iNOA_B,0.25819888974716115
+Germ latest stage,iNOA_S3,iNOA_S,-1.4631270419005797
+Germ latest stage,Ctrl_2,Ctrl,0.6024640760767093
+Germ latest stage,iNOA_S1,iNOA_S,-1.807392228230128
+Germ latest stage,iNOA_S2,iNOA_S,-1.807392228230128
+Germ latest stage,KS_1,KS,-1.807392228230128
